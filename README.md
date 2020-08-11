@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on VNPT
 - 🌱 I’m currently learning Dotnet & Angular
 - 👯 I’m looking to collaborate on Microservice
 <!-- 🤔 I’m looking for help with ...-->
