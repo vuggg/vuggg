@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Microservice
 <!-- 🤔 I’m looking for help with ...-->
 <!-- 💬 Ask me about: -->
-- 📫 How to reach me: vuongdingo@gmail.com
+- 📫 How to reach me: 
 <!-- 😄 Pronouns: ...-->
 - ⚡ Fun fact: null
 
